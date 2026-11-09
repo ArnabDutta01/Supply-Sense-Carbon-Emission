@@ -444,11 +444,11 @@ Hotspot Vendors Flagged: 3
 
 | Dashboard Overview | Scope 1/2/3 Breakdown |
 |---|---|
-| ![Dashboard Overview Placeholder](https://via.placeholder.com/600x350/0f172a/38bdf8?text=SupplySense+Executive+Dashboard) | ![Scope Breakdown Placeholder](https://via.placeholder.com/600x350/0f172a/34d399?text=Scope+1+2+3+Recharts+Breakdown) |
+| ![Dashboard](./Screenshots/dashboard.png) | ![Scope Breakdown](./Screenshots/scope_breakdown.png) |
 
 | Vendor ESG Leaderboard | Logistics Efficiency Radar |
 |---|---|
-| ![Vendor ESG Leaderboard Placeholder](https://via.placeholder.com/600x350/0f172a/fbbf24?text=Vendor+ESG+Scorecard+%26+Leaderboard) | ![Logistics Matrix Placeholder](https://via.placeholder.com/600x350/0f172a/a78bfa?text=Transport+Mode+Carbon+Efficiency) |
+| ![Vendor ESG Leaderboard Placeholder](./Screenshots/top_vendors.png) | ![Logistics Matrix Placeholder](./Screenshots/transport.png) |
 
 ---
 
